@@ -1,4 +1,4 @@
-# ✊✋✌ Hand_Gesture_Controlled Rock-Paper-Scissors Game
+# ✊✋✌ Hand_Gestured Rock-Paper-Scissors Game
 
 An interactive **Rock-Paper-Scissors game** controlled entirely using
 your **hand gestures** through the webcam.
