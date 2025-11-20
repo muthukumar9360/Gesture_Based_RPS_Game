@@ -1,6 +1,6 @@
-# ✊✋✌ Hand Gesture Controlled Rock--Paper--Scissors Game
+# ✊✋✌ Hand_Gesture_Controlled Rock-Paper-Scissors Game
 
-An interactive **Rock--Paper--Scissors game** controlled entirely using
+An interactive **Rock-Paper-Scissors game** controlled entirely using
 your **hand gestures** through the webcam.
 Built with **Python**, **OpenCV**, and **MediaPipe**, this game detects
 your hand shape and plays against the computer in real time.
@@ -22,7 +22,7 @@ your hand shape and plays against the computer in real time.
 ## 📁 File Structure
 
 -   `main.py` --- Complete game code including gesture detection, timer
-    logic, scoring system, and UI overlay\
+    logic, scoring system, and UI overlay
 -   `README.md` --- Documentation for this project
 
 ------------------------------------------------------------------------
